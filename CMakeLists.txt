@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.12)
+cmake_minimum_required(VERSION 3.6)
 project (Hello VERSION 0.0.1)
 
 add_library(say-hello #SHARED
